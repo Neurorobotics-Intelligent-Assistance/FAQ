@@ -17,7 +17,7 @@ This repository serves as the single source of truth for lab-wide technical docu
 ## 🔍 How to Find Solutions
 All documentation, setup manuals, and debugging logs are organized inside the Wiki:
 
-[![Wiki Documentation](https://img.shields.io/badge/Documentation-Lab%20Wiki-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_ORGANIZATION/FAQ/wiki)
+[![Lab Wiki](https://img.shields.io/badge/Documentation-Lab%20Wiki-0969da?style=for-the-badge&logo=github)](https://github.com/Neurorobotics-Intelligent-Assistance/FAQ/wiki)
 
 - **Browse Categories:** Use the sidebar on the right to navigate by topic (e.g., *IMU Sensor Troubleshooting*, *Motor Control & Drivers*, *Environment Setup*).
 - **Search Keywords:** Use the Wiki search bar to look up specific error codes, terminal outputs, or hardware names.
@@ -30,7 +30,7 @@ Direct editing of the Wiki is reserved for Lab Administrators to keep documentat
 1. Navigate to the **[Issues](../../issues)** tab in this repository.
 2. Click **New Issue**.
 3. Use the following structure to describe the problem and your solution:
-   - **Title:** `[Request] Add troubleshooting page/section for [e.g., IMU CAN-bus timeout / ODrive motor lock]`
+   - **Title:** `[Request] Add troubleshooting page/section for`
    - **Problem Description:** Describe the symptom (e.g., *"The IMU stops streaming data after 5 minutes"* or *"The brushless motor locks up under heavy load"*).
    - **Symptoms / Error Log:** Exact terminal output, error code, or screenshots (you can simply paste screenshots with `Ctrl+V` or drag and drop logs/images directly into the issue box).
    - **Proposed Solution / Steps to Fix:** Detail the exact fix, commands, or configuration changes you tested and verified.
