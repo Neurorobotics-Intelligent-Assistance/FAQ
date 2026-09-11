@@ -19,6 +19,8 @@ All documentation, setup manuals, and debugging logs are organized inside the Wi
 
 [![Lab Wiki](https://img.shields.io/badge/Documentation-Lab%20Wiki-0969da?style=for-the-badge&logo=github)](https://github.com/Neurorobotics-Intelligent-Assistance/FAQ/wiki)
 
+👉 **[Apri la Wiki del Laboratorio](https://github.com/NOME-ORGANIZZAZIONE/FAQ/wiki)**
+
 - **Browse Categories:** Use the sidebar on the right to navigate by topic (e.g., *IMU Sensor Troubleshooting*, *Motor Control & Drivers*, *Environment Setup*).
 - **Search Keywords:** Use the Wiki search bar to look up specific error codes, terminal outputs, or hardware names.
 
